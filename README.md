@@ -29,6 +29,7 @@ The customer's are prefering **Fiber Optic** Ineternet type than **Cable** and *
   2. RandomForestClassifier - Accuracy Score - 96.75%
   3. KNearestNeighbors - Accuracy Score - 74.94%
   4. XGBClassifier - Accuracy Score - 96.45%
+     
 Best Model as per below accuracy results can be considered as Random Forest and XGBoost as the second best model.
 
 # Ethics Report
