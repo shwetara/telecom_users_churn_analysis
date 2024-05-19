@@ -5,7 +5,7 @@ Telecom churn analysis involves examining customer data to identify patterns and
 Python 3.8+ Jupyter Notebook - Kaggle Notebook is preferrable.
 
 # Dataset
-Telecom churn Analysis: https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3/code
+Telecom churn Analysis: https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3/data
 
 # Key Data Insights
 * In figure 1, we can see the count of customers who are leaving and those who are staying loyal to the service.
